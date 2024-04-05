@@ -175,6 +175,11 @@ nav a:hover {
   /* Aumenta a escala da imagem em 1.1x */
 }
 
+#evolucao a{
+text-decoration: none;
+color:black;
+}
+
 #evolucao figcaption {
   font-weight: 600;
   font-size: 20px;
@@ -219,12 +224,10 @@ footer {
 
 footer a {
   text-decoration: none;
-  opacity: 0.5;
-  transition: color 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
 }
 
 footer a:hover {
-  
   transition: opacity 0.3s ease;
 }
 
