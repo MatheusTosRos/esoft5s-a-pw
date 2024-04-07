@@ -93,6 +93,11 @@ header h1 {
   font-size: 24px;
 }
 
+#informacoes{
+  text-align: center;
+  margin-top: 10px;
+}
+
 /* Lista de navegação */
 
 nav ul {
