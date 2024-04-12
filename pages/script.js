@@ -23,7 +23,6 @@ async function BuscarImagem(){
     let titulo = document.createElement("h1")
     titulo.innerHTML = `${procura.get("nome")}`
     elementoPai.appendChild(titulo)
-
 }
 
 BuscarImagem()
