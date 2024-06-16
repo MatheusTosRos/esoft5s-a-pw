@@ -18,6 +18,10 @@ td {
   box-sizing: border-box;
 }
 
+h2 {
+  text-align: center;
+}
+
 body {
   font-family: 'Arial', sans-serif;
   color: #333;
@@ -83,7 +87,7 @@ ul {
 
 li {
   margin: 8px 0;
-  padding: 20px;
+  padding: 30px;
   border: solid 1px #ccc;
   position: relative;
 }
